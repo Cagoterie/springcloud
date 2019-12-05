@@ -1,0 +1,11 @@
+# Project exclude paths
+/springcloud-common/target/
+/springcloud-config/target/
+/springcloud-config02/target/
+/springcloud-eureka/target/
+/springcloud-eureka02/target/
+/springcloud-feign-consumer/target/
+/springcloud-provider/target/
+/springcloud-ribbon-consumer/target/
+/springcloud-service-turbine/target/
+/springcloud-zuul/target/
